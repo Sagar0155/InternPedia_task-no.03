@@ -311,7 +311,7 @@ button:hover{
     display: flex;
     justify-content: space-between;
 }
-#project4 #proj4 .para h1{
+#project4 #proj4 .para4 h1{
     color: aquamarine;
     font-family: "PT Serif", serif;
     font-size: 27px;
@@ -328,7 +328,7 @@ button:hover{
 #proj4 .pic4 img{
     width: 200px;
     height: 200px;
-    border-radius: 10px;
+    border-radius: 20px;
     position: relative;
     left: 25px;
     top: 25px;
